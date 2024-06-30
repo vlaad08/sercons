@@ -1,0 +1,30 @@
+/* navbar.css */
+.navbar {
+    background-color: #333; /* Dark background color */
+    padding: 10px 20px; /* Padding around the navbar */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Subtle shadow for depth */
+  }
+  
+  .navbar-list {
+    list-style: none; /* Remove default list styling */
+    display: flex; /* Align items in a row */
+    justify-content: center; /* Center items horizontally */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+  }
+  
+  .navbar-item {
+    margin: 0 15px; /* Space out the navbar items */
+  }
+  
+  .navbar-link {
+    text-decoration: none; /* Remove underline from links */
+    color: #fff; /* Light text color for contrast */
+    font-size: 16px; /* Slightly larger text size */
+    transition: color 0.3s ease, transform 0.3s ease; /* Smooth transition for color and transform */
+  }
+  
+  .navbar-link:hover, .navbar-link:focus {
+    color: #4CAF50; /* Highlight color on hover/focus */
+    transform: scale(1.1); /* Slightly enlarge items on hover/focus */
+  }

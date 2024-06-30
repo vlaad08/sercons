@@ -1,0 +1,12 @@
+.teamMembers {
+    margin-top: 20px;
+}
+
+.teamMembers ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.teamMembers li {
+    margin-bottom: 10px;
+}
