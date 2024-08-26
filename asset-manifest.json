@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sercons/static/css/main.c0d21201.css",
+    "main.js": "/sercons/static/js/main.fb8d52a7.js",
+    "index.html": "/sercons/index.html",
+    "main.c0d21201.css.map": "/sercons/static/css/main.c0d21201.css.map",
+    "main.fb8d52a7.js.map": "/sercons/static/js/main.fb8d52a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0d21201.css",
+    "static/js/main.fb8d52a7.js"
+  ]
+}
