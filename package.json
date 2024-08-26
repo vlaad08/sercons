@@ -18,6 +18,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "dev": "npm start",
     "build": "react-scripts build",
@@ -30,6 +32,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": "https://vlaad08.github.io/pokedex",
   "browserslist": {
     "production": [
       ">0.2%",
