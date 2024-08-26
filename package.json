@@ -32,7 +32,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://vlaad08.github.io/pokedex",
+  "homepage": "https://vlaad08.github.io/sercons",
   "browserslist": {
     "production": [
       ">0.2%",
