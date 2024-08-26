@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/sercons/static/css/main.c0d21201.css",
-    "main.js": "/sercons/static/js/main.6a773c7a.js",
+    "main.js": "/sercons/static/js/main.a4de5598.js",
     "index.html": "/sercons/index.html",
     "main.c0d21201.css.map": "/sercons/static/css/main.c0d21201.css.map",
-    "main.6a773c7a.js.map": "/sercons/static/js/main.6a773c7a.js.map"
+    "main.a4de5598.js.map": "/sercons/static/js/main.a4de5598.js.map"
   },
   "entrypoints": [
     "static/css/main.c0d21201.css",
-    "static/js/main.6a773c7a.js"
+    "static/js/main.a4de5598.js"
   ]
 }
