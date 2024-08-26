@@ -1,0 +1,41 @@
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.galleryImage {
+  width: 500px;
+  height: 500px;
+  object-fit: cover;
+  margin: 1rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 2px solid #f0f0f0;
+  transition: 0.3s ease-in-out;
+  border-radius: 5px;
+}
+
+.galleryImage:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease-in-out;
+}
+
+@media (max-width: 768px) {
+  .galleryImage {
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .galleryImage {
+    width: 33%;
+  }
+}
+
+@media (min-width: 1025px) {
+  .galleryImage {
+    width: 24%;
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "alt": "gradina_hambar",
+      "url": "../images/sercons1.jpg"
+    },
+    {
+      "id": 2,
+      "alt": "gradina_hambar_2",
+      "url": "../images/sercons2.jpg"
+    },
+    {
+      "id": 3,
+      "alt": "parc_sulina",
+      "url": "../images/sercons3.jpg"
+    },
+    {
+      "id": 4,
+      "alt": "casa",
+      "url": "../images/sercons4.jpg"
+    },
+    {
+      "id": 5,
+      "alt": "spital",
+      "url": "../images/sercons5.jpg"
+    },
+    {
+      "id": 6,
+      "alt": "spital_2",
+      "url": "../images/sercons6.jpg"
+    },
+    {
+      "id": 7,
+      "alt": "pensiune",
+      "url": "../images/sercons7.jpg"
+    },
+    {
+      "id": 8,
+      "alt": "pensiune_2",
+      "url": "../images/sercons8.jpg"
+    },
+    {
+      "id": 9,
+      "alt": "cladire",
+      "url": "../images/sercons9.jpg"
+    },
+    {
+      "id": 10,
+      "alt": "casa_snagov",
+      "url": "../images/sercons10.jpg"
+    },
+    {
+      "id": 11,
+      "alt": "scoala_sulina",
+      "url": "../images/sercons11.jpg"
+    },
+    {
+      "id": 12,
+      "alt": "parc",
+      "url": "../images/sercons12.jpg"
+    },
+    {
+      "id": 13,
+      "alt": "cladire_2",
+      "url": "../images/sercons13.jpg"
+    }
+  ],
+  "facebookLogo": {
+    "alt": "facebook_logo",
+    "url": "../images/Facebook_Logo_2023.png"
+  },
+  "serconsLogo": {
+    "alt": "sercons_contractor_logo",
+    "url": "../images/sercons_logo.png"
+  },
+  "homepage": {
+    "alt": "homepage",
+    "url": "../images/construction-site.jpg"
+  }
+}

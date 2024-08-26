@@ -1,19 +1,21 @@
 import React from "react";
-import Header from "../components/Header";
 import CompanyInfo from "../components/CompanyInfo";
-import TeamMembers from "../components/TeamMembers";
-import './styles/AboutPage.css'; 
+import "./styles/AboutPage.css";
 import Navbar from "../components/Navbar";
+import { HeroSectionAbout } from "../components/HeroSection";
+import Footer from "../components/Footer";
 
 const AboutPage = () => {
-    return (
-        <div className="aboutPage">
-            <Navbar />
-            <Header title="Despre Noi" />
-            <CompanyInfo />
-            <TeamMembers />
-        </div>
-    );
+  return (
+    <div className="aboutPage">
+      <Navbar />
+      <div className="content">
+        <HeroSectionAbout />
+        <CompanyInfo />
+      </div>
+      <Footer />
+    </div>
+  );
 };
 
 export default AboutPage;
