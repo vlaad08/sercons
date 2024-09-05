@@ -16,6 +16,10 @@ const router = createHashRouter([
     path: "/desprenoi",
     element: <AboutPage />,
   },
+  {
+    path: "/secret",
+    element: <div>Secret</div>,
+  },
 ]);
 
 function App() {
